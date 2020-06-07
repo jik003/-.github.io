@@ -6,9 +6,6 @@
 ![도면1](https://user-images.githubusercontent.com/59581275/83959741-ae9b8580-a8bb-11ea-934f-2b9f89fb32dc.jpg)
 
 
-You can use the [editor on GitHub](https://github.com/jik003/-.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
